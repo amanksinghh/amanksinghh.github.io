@@ -1,11 +1,11 @@
 {
-    "name": "poc_sender_demo",
-    "short_name": "poc_sender_demo",
+    "name": "smart_attendence_app",
+    "short_name": "smart_attendence_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Attendence Capturing app which uses face auth to capture attendence",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
