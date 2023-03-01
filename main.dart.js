@@ -65137,9 +65137,9 @@ A.Fv.prototype={
 a0(a){return new A.v_(B.a2h,"Flutter Demo",A.aml(null,B.hs,null),null)}}
 A.Jl.prototype={
 a0(a){var s=null,r=A.a([],t.lZ),q=new A.B(Date.now(),!1).f8(B.ay)
-r.push(A.agq(B.hs,new A.B(Date.now(),!1).A(0,B.ay),s,s,!1,s,s,s,s,s,s,q,s,"Testing"))
+r.push(A.agq(B.hs,new A.B(Date.now(),!1).A(0,B.ay),s,s,!1,s,s,s,s,s,s,q,s,"Appointment"))
 q=new A.B(Date.now(),!1).A(0,B.ay)
-r.push(A.agq(B.V9,new A.B(Date.now(),!1).A(0,B.Ha),s,s,!1,s,s,s,s,s,s,q,s,"Test"))
+r.push(A.agq(B.V9,new A.B(Date.now(),!1).A(0,B.Ha),s,s,!1,s,s,s,s,s,s,q,s,"Meeting"))
 q=new A.a7u()
 q.b=r
 return new A.wm(new A.rB(B.a13,new A.NA(s,s,1/0,56),s),new A.hs(B.Hh,new A.rZ(B.ap,"assets/images/batman.jpeg",q,s),s),s)}}
